@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "60e0eaaeb1554edb41cb2e0a",
+  "owner": "cwrkaphrp",
+  "repo": "page-e3e13c8ba60571baff63a935",
+  "title": "clashmi安卓",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e3e13c8ba60571baff63a935",
+      "a": "clashmi安卓",
+      "b": "",
+      "entity": "clashmi安卓",
+      "brand": "clashmi安卓",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1337ab058090f62490687c8df7d590aa1120057a135fd5a8cf6fbfd64e98673b",
+      "content": {
+        "keyword1": "clashmi安卓",
+        "keyword2": "",
+        "primary_entity": "clashmi安卓",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi安卓说明安卓客户端下载、机场订阅与网络加速的选择方法，包括三档套餐的流量和设备数、导入订阅的操作步骤，以及下载前需要核对的事项。",
+          "AI_DESCRIPTION": "clashmi安卓说明安卓客户端下载、机场订阅与网络加速的选择方法，包括三档套餐的流量和设备数、导入订阅的操作步骤，以及下载前需要核对的事项。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#FFF6F1;color:#2A211F;font-family:'PingFang SC','Noto Sans SC','Microsoft YaHei',sans-serif;font-size:17px;line-height:1.75;overflow-wrap:anywhere}a{color:#9E3428}h1,h2,h3,p,ul,ol{margin-top:0}h1{font-size:2rem;line-height:1.25;margin-bottom:12px}h2{font-size:1.45rem;line-height:1.35;margin-bottom:12px}h3{font-size:1.12rem;line-height:1.4;margin-bottom:8px}p{margin-bottom:12px}li{margin-bottom:6px}.wrap{width:100%;max-width:1040px;margin:0 auto;padding:0 16px}header.top{background:#2A211F;color:#FFF8F4}header.top a{color:#FFD9D0;text-decoration:none}.nav{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;padding:14px 0}.brand{font-weight:700}.nav ul{display:flex;flex-wrap:wrap;gap:8px 14px;list-style:none;margin:0;padding:0}.hero{padding:28px 0 8px}.kicker{margin:0 0 8px;color:#C84B3A;font-weight:700;font-size:.95rem}.lede{font-size:1.08rem}.split{display:grid;grid-template-columns:1fr;gap:16px}.panel,.plan,details{background:#FFFCF9;border:1px solid #F0D2C8;border-radius:16px}.panel,.plan{padding:16px}.side{background:#FFE8E0;border-radius:16px;padding:16px;border-left:6px solid #C84B3A}section{padding:20px 0}.actions{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 4px}.btn{display:inline-block;background:#9E3428;color:#fff;text-decoration:none;padding:10px 16px;border-radius:999px}.btn.alt{background:transparent;color:#9E3428;border:1px solid #C84B3A}.plans{display:grid;grid-template-columns:1fr;gap:14px}.plan.featured{border:2px solid #C84B3A;background:#FFF1EC}.price{font-size:1.55rem;font-weight:700;color:#9E3428;margin:0 0 4px}.badge{display:inline-block;background:#C84B3A;color:#fff;border-radius:999px;padding:2px 10px;font-size:.85rem;margin-bottom:8px}details{padding:12px 14px;margin:0 0 10px}summary{font-weight:700;cursor:pointer;font-size:1.05rem}footer{color:#5C534F;font-size:.95rem;padding:8px 0 40px}@media (min-width:860px){.split{grid-template-columns:1.35fr .75fr;gap:28px}.plans{grid-template-columns:repeat(3,1fr)}h1{font-size:2.45rem}}</style><header class=\"top\"><div class=\"wrap nav\"><div class=\"brand\">clashmi安卓</div><ul><li><a href=\"#about\">简介</a></li><li><a href=\"#scenes\">场景</a></li><li><a href=\"#clients\">客户端</a></li><li><a href=\"#guide\">操作</a></li><li><a href=\"#plans\">套餐</a></li><li><a href=\"#faq\">问答</a></li></ul></div></header><main><div class=\"wrap\"><section class=\"hero\"><div class=\"split\"><div><p class=\"kicker\">机场订阅 · 安卓客户端 · 网络加速</p><h1>clashmi安卓</h1><p class=\"lede\">clashmi安卓把客户端下载、机场订阅和日常网络加速放在同一套说明里。无论你把它理解成加速器，还是口头说的梯子，落地步骤都是：按设备数和流量选套餐，安装名称一致的安卓客户端，再导入订阅并连接。</p><div class=\"actions\"><a class=\"btn\" href=\"#download\">官网下载说明</a><a class=\"btn alt\" href=\"#plans\">比较三档套餐</a></div></div><aside class=\"side\"><h2>客户端先选对</h2><p>手机和平板以 clashmi安卓为准。电脑配置不能原样套到安卓。</p><ul><li>基础版：100GB，3 台设备，普通线路</li><li>旗舰版：300GB，5 台设备，含流媒体与游戏向线路</li><li>团队版：1000GB，20 台设备，含专属沟通</li></ul><p><a href=\"#clients\">进入客户端选择</a></p></aside></div></section><section id=\"about\"><h2>品牌简介</h2><p>clashmi安卓是面向安卓设备的订阅与使用说明页。页面根据流量、同时在线设备和线路类型帮你做选择，不把网速写成固定测速成绩。开通套餐之后，你会得到一条机场订阅；在客户端里更新订阅，才能看到当时可用的节点。</p><div class=\"split\"><div><h3>适合先看这页的人</h3><ul><li>主要使用安卓手机或平板，希望有一份可重复的连接步骤</li><li>需要区分基础浏览、影音和多人共用，而不是只看最低月费</li><li>想在下载前确认设备上限，避免装完才发现套餐不够</li></ul></div><div class=\"panel\"><h3>阅读时的边界</h3><p>这里不提供真实订阅链接，也不放站外安装包。节点是否可连、某个网站能否打开，以你更新订阅后的实际结果为准。本页不陈列评分和用户评论。</p></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"split\"><div><h3>办公与学习</h3><p>查资料、收邮件、打开文档时，优先稳定而不是追求稀有线路。使用时间不长、设备不超过三台，可以从基础版的普通线路节点池开始。</p><h3>影音</h3><p>旗舰版写明全节点原生流媒体解锁。它表示线路面向常见流媒体场景准备，不表示每一个平台、每一部影片都随时可播。若只需要基础流媒体，基础版已经包含对应说明。</p></div><div><h3>游戏与团队</h3><p>旗舰版的 IPLC 专线游戏加速优化，指的是套餐中包含面向游戏体验的线路类型，用来减少忽快忽慢，而不是承诺某一局的具体延迟。多人共用、需要企业定制路由和专属客户经理时，再看团队版。</p><h3>出行与更换网络</h3><p>换到酒店或公共网络后，先确认不连接也能打开普通网页，再打开客户端。本地网络本身不通时，加速器无法单独修好。</p></div></div></section><section id=\"clients\"><h2>客户端选择</h2><p>这一页的重点是选对客户端。订阅格式再正确，装错程序也会导入失败。请只在安卓系统上使用 clashmi安卓。</p><div class=\"split\"><div><h3>为什么优先安卓客户端</h3><p>clashmi安卓按手机屏幕和小流量更新来组织节点列表。导入的是一条机场订阅，不是把节点逐条抄进文本框。更新后按用途挑选即可：普通浏览留在基础线路，影音和游戏需求再对照旗舰版权益。</p><h3 id=\"download\">官网下载</h3><p>官方下载在本页只做核对，不跳转到站外文件。请确认三件事：系统是安卓，程序名称是 clashmi安卓，安装来源说得清发布者。名称相近但发布者不明的安装包不要继续。套餐设备数还没核对时，可以先看套餐再安装。</p><p><a class=\"btn\" href=\"#guide\">下载核对后看操作步骤</a></p></div><div class=\"panel\"><h3>选择清单</h3><ul><li>设备系统为安卓，而不是把其他系统客户端改名使用</li><li>同时在线数量落在所选套餐内：3 台、5 台或 20 台</li><li>只保留当前有效订阅，过期链接先在通知里更换</li><li>不把订阅链接发到公开群组或截图</li></ul></div></div></section><section id=\"guide\"><h2>操作说明</h2><p>下面是从选套餐到连通的顺序。每一步都可以单独重做，不必重装系统。</p><ol><li>在套餐区确定基础版、旗舰版或团队版，记下每月流量和同时在线设备数。</li><li>按官网下载说明安装 clashmi安卓，打开后核对应用名称。</li><li>完成订阅后，从服务通知里复制机场订阅链接，不要发到公开场合。</li><li>在客户端中选择通过链接导入，粘贴后保存。</li><li>手动更新一次订阅，直到节点列表出现。列表为空时，先检查链接是否过期，而不是反复开关飞行模式。</li><li>日常使用可先采用客户端提供的规则分流。某个应用没有按预期走代理时，只调整该应用的分流项。</li><li>结束使用后断开连接。更换 Wi-Fi 或移动数据后，先测试本地网页，再重新连接。</li></ol></section><section id=\"plans\"><h2>套餐与订阅</h2><p>月费与年付金额如下。年付是一次付清的价格，不是每月再扣所列年费。未写出的权益不要默认包含。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#download\">用基础版前核对客户端</a></p></article><article class=\"plan featured\"><p class=\"badge\">重点套餐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#guide\">查看对应操作步骤</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#faq\">团队使用先看问答</a></p></article></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>clashmi安卓和单独的加速器应用是什么关系？</summary><p>clashmi安卓是承接机场订阅的安卓客户端。加速器或梯子只是对同一类需求的不同说法：把流量按订阅里的节点转发出去。真正要核对的是客户端名称、订阅是否有效，以及设备数是否超限。</p></details><details><summary>官网下载会直接给出安装包吗？</summary><p>不会。本页的官网下载是核对说明，按钮只在页面内跳转。请在能够确认发布者的渠道安装与 clashmi安卓同名的程序，拒绝来源说不清的文件。</p></details><details><summary>机场订阅应该怎么导入？</summary><p>复制当前有效的订阅链接，在 clashmi安卓里选择通过链接导入并保存，然后手动更新。不要把节点逐条手打进去，也不要把链接贴到公开网页。更新后列表仍为空，先确认套餐是否过期。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>三台以内、每月大约 100GB、只需基础流媒体时用基础版。需要 300GB、五台设备、流媒体范围更大或游戏向 IPLC 线路时用旗舰版。二十台设备以内、约 1000GB，并且需要定制路由和专属客户经理时用团队版。</p></details><details><summary>网络加速是不是所有访问都会变快？</summary><p>不是。它解决的是所选节点能够到达的访问路径。本地宽带很慢、路由器故障或目标网站本身拥堵时，连接客户端也不会稳定变快。游戏线路只说明线路类型，不保证固定延迟。</p></details><details><summary>设备数量超出套餐会怎样？</summary><p>每档都写了同时在线上限：基础版 3 台，旗舰版 5 台，团队版 20 台。超出后应先断开不再使用的设备，或改到更高档，而不是在同一台手机上重复安装多个客户端来绕过计数。</p></details><details><summary>连接失败时建议先检查什么？</summary><p>按顺序看：本地网络能否打开普通网页、订阅是否过期、客户端名称是否为 clashmi安卓、节点列表是否已经更新。四项都正常仍失败时，再换一个节点。不要连续安装来路不明的修复包。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>clashmi安卓说明页只导航到本页各节。套餐价格与权益以基础版、旗舰版、团队版所列文字为准。安装客户端前请核对发布者，勿使用公开转发的订阅链接。</p></div></footer>",
+          "hash": "51434acdfe8e84898d7d913cca270e96d12ca91f147d172e1977186070b8c257",
+          "seo": {
+            "title": "clashmi安卓官网：安卓客户端下载与网络加速",
+            "keywords": "clashmi安卓,clashmi安卓机场,clashmi安卓VPN,机场订阅,客户端下载,网络加速,加速器,官网下载",
+            "description": "clashmi安卓说明安卓客户端下载、机场订阅与网络加速的选择方法，包括三档套餐的流量和设备数、导入订阅的操作步骤，以及下载前需要核对的事项。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "batuwu.cn",
+    "host": "p-221d7f18bf.batuwu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "746d242a8a63066d6f9c2561b87a7e09ab9c246deafc4201fea40877a595cb27",
+    "sitemap.xml": "ba0b05cc4c17ed28f427c3e912b4fe393096ea971f9dec26573c0be950b5ab56",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7e5462a244e536f3b0d17aed7d93595d1a79391a9000e58a7dbbc8c5dd9601a2",
+    "robots.txt": "50c13d1accb5d4f6d2ecd932a85d1ddb534702324e6415991dd5153fb63e106c",
+    "7f5d41a5cb4a76b00f146a6e61bd31d6.txt": "bf4d55bbe80cc2a01b7b90c8fb54e79ab735a13e357522f32e4922e7c6ece9dd"
+  },
+  "revision": "34f19549beb5f9ac1561b4a3f8e5ac6046eab0f7c5904e4765d71595ecc317d5"
+}
